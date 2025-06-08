@@ -28,13 +28,13 @@
         "node": ">= 16"
     },
     "dependencies": {
-        "@octokit/rest": "^21.1.1",
-        "@slack/web-api": "^6.8.0",
-        "chalk": "^4.x",
-        "commander": "^9.4.0"
+        "@octokit/rest": "^22.0.0",
+        "@slack/web-api": "^7.9.2",
+        "chalk": "^5.x",
+        "commander": "^14.0.0"
     },
     "devDependencies": {
-        "@types/node": "20.x",
-        "typescript": "5.4.x"
+        "@types/node": "22.x",
+        "typescript": "5.8.x"
     }
 }
